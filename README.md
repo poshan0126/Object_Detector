@@ -8,5 +8,5 @@
  - Tiny YOLO V2
 ## Screenshots:
 <img src = "Screenshots/1.png" height= 600> <img src = "Screenshots/2.png" height= 600>
- ## You can find the apk file in this folder[app-release]:
+ ### You can find the apk file in this folder[app-release]:
  \build\app\outputs\flutter-apk\
