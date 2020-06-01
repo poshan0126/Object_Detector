@@ -3,7 +3,7 @@
 ## Plugin Used:
  - tflite
  - image picker
-## Module Used:
+## Approach Used:
  - SSD Mobilenet
  - Tiny YOLO V2
 ## Screenshots:
